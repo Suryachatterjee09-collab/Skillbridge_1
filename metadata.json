@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "Find Your Match. Share Your Skills. Grow Together. A peer-to-peer student skill-exchange, discovery, and learning collaboration network starting at BUIE.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
